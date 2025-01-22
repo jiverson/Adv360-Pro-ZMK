@@ -11,7 +11,7 @@
   ],
   "layers": [
     [
-         "&kp ESC",      "&kp N1",     "&kp N2",   "&kp N3",    "&kp N4", "&kp N5",             "&tog 1",                                                                            "&mo 4", "&kp N6",   "&kp N7",    "&kp N8",  "&kp N9",   "&kp N0", "&kp MINUS",
+         "&kp ESC",      "&kp N1",     "&kp N2",   "&kp N3",    "&kp N4", "&kp N5",             "&tog 1",                                                                            "&sl 4", "&kp N6",   "&kp N7",    "&kp N8",  "&kp N9",   "&kp N0", "&kp MINUS",
        "&kp GRAVE",       "&kp Q",      "&kp W",    "&kp E",     "&kp R",  "&kp T",           "&kp LBKT",                                                                         "&kp RBKT",  "&kp Y",    "&kp U",     "&kp I",   "&kp O",    "&kp P",  "&kp BSLH",
          "&kp TAB",       "&kp A",      "&kp S",    "&kp D",     "&kp F",  "&kp G",           "&kp LBRC", "&kp LCTRL", "&kp LALT",                      "&kp LGUI", "&kp RCTRL",  "&kp RBRC",  "&kp H",    "&kp J",     "&kp K",   "&kp L", "&kp SEMI",   "&kp SQT",
        "&kp LSHFT", "&mt LCTRL Z", "&mt LALT X",    "&kp C",     "&kp V",  "&kp B",                                    "&kp HOME",                     "&kp PG_UP",                            "&kp N",    "&kp M", "&kp COMMA", "&kp DOT", "&kp FSLH", "&kp RSHFT",
@@ -35,11 +35,11 @@
         "&none",        "&none",        "&none",        "&none",   "&macro_ver",        "&none",                                     "&none",                          "&none",                                          "&none",      "&none",      "&none",  "&none",  "&none",  "&none",
         "&none",        "&none",        "&none",        "&none",        "&none",                                 "&none",  "&none",  "&none",                          "&none", "&bl BL_TOG",        "&rgb_ug RGB_TOG",           "&bl BL_INC", "&bl BL_DEC",  "&none",  "&none",  "&none"
     ], [
-       "&trans", "&mt LALT KP_N1", "&mt LALT KP_N2", "&trans", "&trans", "&trans",           "&trans",                                                             "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-       "&trans",         "&trans",         "&trans", "&trans", "&trans", "&trans",           "&trans",                                                             "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-       "&trans",         "&trans",         "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-       "&trans",         "&trans",         "&trans", "&trans", "&trans", "&trans",                               "&trans",                     "&trans",                     "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-       "&trans",         "&trans",         "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans"
+       "&trans", "&mt LALT N1", "&mt LALT N2", "&trans", "&trans", "&trans",           "&trans",                                                             "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
+       "&trans",      "&trans",      "&trans", "&trans", "&trans", "&trans",           "&trans",                                                             "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
+       "&trans",      "&trans",      "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
+       "&trans",      "&trans",      "&trans", "&trans", "&trans", "&trans",                               "&trans",                     "&trans",                     "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
+       "&trans",      "&trans",      "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans"
     ]
   ]
 }
