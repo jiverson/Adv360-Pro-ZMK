@@ -78,7 +78,7 @@
             >;
         };
 
-        layer_Layer__4 {
+        layer_Aerospace {
             bindings = <
          &trans  &mt LALT N1  &mt LALT N1  &trans  &trans  &trans            &trans                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
          &trans       &trans       &trans  &trans  &trans  &trans            &trans                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
