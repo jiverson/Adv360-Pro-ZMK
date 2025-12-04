@@ -22,8 +22,7 @@
       };
 
       hyper: hyper {
-          compatible = "zmk,behavior-mod-morph";
-          label = "HYPER";
+          compatible = "zmk,behavior-key-press";
           bindings = <&kp LC(LA(LS(LGUI)))>;
       };
     };
