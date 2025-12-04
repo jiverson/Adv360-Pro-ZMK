@@ -23,7 +23,7 @@
 
       hyper: hyper {
           compatible = "zmk,behavior-mod-morph";
-          label = "HYPER"
+          label = "HYPER";
           bindings = <&kp LC(LA(LS(LGUI)))>;
       };
     };
